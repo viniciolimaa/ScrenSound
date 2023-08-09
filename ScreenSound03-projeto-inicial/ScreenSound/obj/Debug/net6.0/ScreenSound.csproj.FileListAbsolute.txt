@@ -1,0 +1,56 @@
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\OpenAI_API.dll
+D:\Alura\Formação C#\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CopyComplete
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\bin\Debug\net6.0\OpenAI_API.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CopyComplete
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+D:\Carreira\Alura\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\ScreenSound03-projeto-inicial\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
